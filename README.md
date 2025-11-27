@@ -1,5 +1,5 @@
 # graducate
-A website that helps undergrads and grads at Duke connect!
+A website that helps undergrads and grads at Duke connect! https://grunch-c487c.web.app/
 
 ## Project setup
 ```
